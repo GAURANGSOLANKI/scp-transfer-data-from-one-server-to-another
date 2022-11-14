@@ -1,0 +1,1 @@
+scp -r iot@192.168.222.11:/home/iot/Desktop/aivid_iot_gateway /home/ghost/Desktop/
